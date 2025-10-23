@@ -22,7 +22,7 @@
 
 * `HW` - Average grade for the assignments 1 to 4 (5th is optional). 
 You can get extra points by solving HW 6, but no more than 10 in total. Namely, `HW = (hw1 + hw2 + hw3 + hw4 + hw5)/4`.
-* Assignments graded as 0.75*code + 0.25*quiz
+* Assignments graded as `0.75*code + 0.25*quiz`
 * • If you fail (0-3 points) a code or a quiz part => the assignment is graded by the
 failed part
 
